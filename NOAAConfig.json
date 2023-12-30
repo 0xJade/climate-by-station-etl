@@ -1,0 +1,24 @@
+{
+
+    "daily_summaries_endpoint": "https://www.ncei.noaa.gov/data/daily-summaries/access",
+    "years": 40,
+    "stations": {
+        "Albany": {
+            "station_id": "USW00014735", 
+            "min_frozen": 34
+        },
+        "Buffalo": {
+            "station_id":"USW00014733", 
+            "min_frozen": 34
+        },
+        "Philadelphia": {
+            "station_id":"USW00013739", 
+            "min_frozen": 34
+        },
+        "Syracuse": {
+            "station_id":"USW00014771", 
+            "min_frozen": 34
+        }
+    }
+    
+}
